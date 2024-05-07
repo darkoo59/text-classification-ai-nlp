@@ -82,8 +82,7 @@ While we continue to refine and expand our offerings, you can expect the followi
 
 <h2><b>Get In Touch</b></h2>
 <a name="#built-with"></a>
-If you have any questions about the project or suggestions for improvement, don't hesitate to reach out to the author (
-Darko Selaković) directly. Your feedback is invaluable to me.
+If you have any questions about the project or suggestions for improvement, don't hesitate to reach out to the author (Darko Selaković) directly. Your feedback is invaluable to me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
