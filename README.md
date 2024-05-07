@@ -115,7 +115,7 @@ To get a local copy up and running follow these simple example steps.
 1. Contact owner for more info
 2. Clone the repo
    ```sh
-   git clone https://github.com/darkoo59/text-classification-ai.git
+   git clone https://github.com/darkoo59/text-classification-ai-nlp.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
