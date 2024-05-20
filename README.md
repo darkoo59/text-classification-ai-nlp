@@ -137,10 +137,14 @@ Implementation of both models are in files here in repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-See the [open issues](https://github.com/darkoo59/university-simulation/issues) for a full list of proposed features (and
+See the [open issues](https://github.com/darkoo59/text-classification-ai-nlp/issues) for a full list of proposed features (and
 known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Why using xlm-roberta-base and bert-base-uncased models
+  * xlm-roberta-base - XLM-RoBERTa is designed to handle over 100 languages, making it highly versatile for multilingual applications (can use both serbian and english language). Trained on 2.5TB of filtered data, the model has a robust understanding of diverse linguistic patterns. Unlike some other multilingual models, XLM-RoBERTa does not need language-specific tensors to identify the language, simplifying its use. For tasks involving text generation, other models like GPT-2 may be more suitable, but for text classification task like this one, model is doing a great job.
+  * bert-base-uncased - I chose the BERT base (uncased) model for my project because it is a highly effective and well-established language model pretrained on a large corpus of English text (which is great because models are trained on dataset that is on english language). This model is using the Masked Language Modeling (MLM) and Next Sentence Prediction (NSP) objectives. This dual pretraining approach enables BERT to understand and represent the context of English sentences bidirectionally, which is crucial for tasks like text classification, token classification, and question answering. The model's uncased nature, which does not distinguish between lowercase and uppercase text, simplifies text preprocessing and makes it more versatile for general use.
 
 ## New knowledge about the topic
 
